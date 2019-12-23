@@ -1,0 +1,52 @@
+12/20/2019 03:36:58 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 03:36:59 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 03:37:02 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 03:37:05 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:15:42 AM - HomePageSearchProduct - INFO: Element not found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:15:42 AM - HomePageSearchProduct - INFO: Cannot send data on the element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:15:51 AM - HomePageSearchProduct - INFO: Element not found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:15:51 AM - HomePageSearchProduct - INFO: Cannot click on the element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:20:20 AM - HomePageSearchProduct - INFO: Element not found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:20:20 AM - HomePageSearchProduct - INFO: Cannot send data on the element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:20:34 AM - HomePageSearchProduct - INFO: Element not found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:20:34 AM - HomePageSearchProduct - INFO: Cannot click on the element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:32:28 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:32:28 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:32:31 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:32:38 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:33:27 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:33:30 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:33:33 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:33:37 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:35:39 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:35:40 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:35:43 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:35:49 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:37:33 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:37:34 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:37:37 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:37:41 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:38:59 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:39:00 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:39:03 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:39:07 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:48:32 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:48:33 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:48:36 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:48:38 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:52:17 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:52:18 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:52:21 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:52:25 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:57:00 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:57:01 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:57:04 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:57:08 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 04:59:35 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 04:59:36 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 04:59:39 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 04:59:43 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+12/20/2019 05:03:37 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+12/20/2019 05:03:37 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+12/20/2019 05:03:40 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+12/20/2019 05:03:44 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
